@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 anothernewtext
+=======
+brandnewtext
+>>>>>>> conflictb
